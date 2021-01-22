@@ -1,5 +1,5 @@
 {
-  "name": "coffee-cache",
+  "name": "slick-dev-coffee-cache",
   "author": "Doug Patti <douglas.patti@gmail.com>",
   "description": "Caches the contents of required CoffeeScript files so that they are not recompiled to help improve startup time",
   "version": "1.0.2",
