@@ -3,6 +3,10 @@
 Caches the contents of required CoffeeScript files so that they are not
 recompiled to help improve startup time.
 
+## Changes in this fork
+
+This fork uses the new and latest CoffeeScript package from npm - `https://www.npmjs.com/package/coffeescript`.
+
 ## What it does
 
 In a Node.js application written in CoffeeScript, every time you start the
